@@ -1,0 +1,32 @@
+{
+  "name": "targetprocess-mashup-config-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader to create Targetprocess mashup config from JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TargetProcess/targetprocess-mashup-config-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "targetprocess",
+    "mashup"
+  ],
+  "author": "Aliaksei Shitkin <shitkin@targetprocess.com>",
+  "licenses": [
+    {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/TargetProcess/targetprocess-mashup-config-loader/issues"
+  },
+  "homepage": "https://github.com/TargetProcess/targetprocess-mashup-config-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.9"
+  }
+}
