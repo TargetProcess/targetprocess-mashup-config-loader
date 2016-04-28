@@ -26,6 +26,10 @@ require('targetprocess-mashup-config-loader?libraryTarget=MyMashup!./manifest.js
 
 Set root module name.
 
+### parse
+
+Parse and output config as valid JSON, set to `false` to use comments in JSON.
+
 ## License
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
